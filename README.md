@@ -12,10 +12,7 @@
 
 :house_with_garden: Baiano de nascência mas cresci em São Paulo, onde moro atualmente.
 
-:books: Estou estudando Desenvolvimento Web e atualmente estou focado em criar base para HTML, CSS e Javascript.
-
-:outbox_tray: 2021 Goals: Criar mais de 20 projetos e arrumar um estágio.
-
+:books: Estou estagiando em desenvolvimento full-stack no momento
  
 ## Linguagens e Ferramentas
 
